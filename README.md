@@ -1,3 +1,3 @@
 # rebase.xyz
 
-hello world
+This website is WIP.
